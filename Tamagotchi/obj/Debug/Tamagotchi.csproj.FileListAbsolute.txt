@@ -1,0 +1,19 @@
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\MainWindow.g.cs
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\App.g.cs
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi_MarkupCompile.cache
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi_MarkupCompile.lref
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\MainWindow.baml
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.g.resources
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.Properties.Resources.resources
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.GenerateResource.cache
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\VentanaBienvenida.g.cs
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\VentanaBienvenida.baml
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Simple Styles.baml
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\App.baml
+C:\Users\claud\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.AssemblyReference.cache
